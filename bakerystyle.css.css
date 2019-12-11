@@ -1,0 +1,11 @@
+@charset "utf-8";
+h1 {color:aqua;}
+img {
+	height: 250px;
+	width: 250px;
+}
+body {background-color: lightseagreen}
+
+p {text-decoration: line-through}
+
+
